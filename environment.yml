@@ -1,0 +1,16 @@
+name: ai3sd
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - rdkit
+  - pylint
+  - pandas
+  - matplotlib
+  - imageio
+  - ipython
+  - networkx
+  - jupyter
+  - openbabel
+  - h5py
+prefix: /home/adam/anaconda3/envs/ai3sd
