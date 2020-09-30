@@ -1,0 +1,57 @@
+data_4c_Co_pw
+_audit_creation_date              2020-09-30
+_audit_creation_method            'adam'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20
+_cell_length_b                    20
+_cell_length_c                    20
+_cell_angle_alpha                 90
+_cell_angle_beta                  90
+_cell_angle_gamma                 90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.0 0.0 0.111337
+Co2 Co 0.0 0.0 0.0
+O3 O -0.090562 -0.007882 0.112236
+O4 O -0.090209 -0.007638 0.001055
+O5 O 0.090641 0.007896 0.111437
+O6 O 0.090133 0.007656 0.000249
+X7 C -0.122302 -0.010503 0.060143
+X8 C 0.122296 0.010541 0.059264
+O9 O -0.007889 0.090149 0.110665
+O10 O -0.007707 0.090614 -0.000521
+O11 O 0.007889 -0.090146 0.110767
+O12 O 0.007709 -0.09063 -0.000419
+X13 C 0.010537 -0.122303 0.051723
+X14 C -0.010543 0.122294 0.051611
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Co1 O3 1.8181760056716183 . S
+Co1 O5 1.8196865331149756 . S
+Co2 O4 1.8107584874852858 . S
+Co2 O6 1.8091582601862117 . S
+Co2 O12 1.8191647690080193 . S
+O4 X7 1.346040210097752 . D
+X7 O3 1.2211433806068803 . S
+X8 O5 1.2216475725838445 . S
+X8 O6 1.3454444647030213 . D
+O9 Co1 1.8099204519536212 . S
+O10 Co2 1.818853076639232 . S
+O11 Co1 1.809846682677845 . S
+X13 O11 1.3457010795863995 . D
+X13 O12 1.221468735089032 . S
+X14 O9 1.3457666450020223 . D
+X14 O10 1.2213780282942706 . S
