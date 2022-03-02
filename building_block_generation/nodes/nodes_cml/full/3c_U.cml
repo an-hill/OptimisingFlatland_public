@@ -1,0 +1,40 @@
+<molecule>
+ <crystal>
+  <scalar title="a" units="units:angstrom">20.000000</scalar>
+  <scalar title="b" units="units:angstrom">20.000000</scalar>
+  <scalar title="c" units="units:angstrom">20.000000</scalar>
+  <scalar title="alpha" units="units:degree">90.000000</scalar>
+  <scalar title="beta" units="units:degree">90.000000</scalar>
+  <scalar title="gamma" units="units:degree">90.000000</scalar>
+ </crystal>
+ <atomArray>
+  <atom id="a1" elementType="U" xFract="-0.000000" yFract="0.000000" zFract="0.099303"/>
+  <atom id="a2" elementType="C" xFract="0.048171" yFract="-0.132925" zFract="0.091485"/>
+  <atom id="a3" elementType="C" xFract="-0.139966" yFract="0.023328" zFract="0.110671"/>
+  <atom id="a4" elementType="C" xFract="0.089281" yFract="0.108975" zFract="0.113406"/>
+  <atom id="a5" elementType="O" xFract="-0.019227" yFract="-0.112889" zFract="0.094405"/>
+  <atom id="a6" elementType="O" xFract="0.086772" yFract="-0.074185" zFract="0.093897"/>
+  <atom id="a7" elementType="O" xFract="-0.108350" yFract="-0.038571" zFract="0.100850"/>
+  <atom id="a8" elementType="O" xFract="-0.088760" yFract="0.070831" zFract="0.117645"/>
+  <atom id="a9" elementType="O" xFract="0.106030" yFract="0.040674" zFract="0.112134"/>
+  <atom id="a10" elementType="O" xFract="0.019227" yFract="0.112648" zFract="0.107658"/>
+  <atom id="a11" elementType="O" xFract="0.000000" yFract="0.000000" zFract="0.000000"/>
+  <atom id="a12" elementType="O" xFract="0.003047" yFract="-0.013840" zFract="0.197690"/>
+ </atomArray>
+ <bondArray>
+  <bond atomRefs2="a2 a5" order="1"/>
+  <bond atomRefs2="a5 a1" order="1"/>
+  <bond atomRefs2="a2 a6" order="1"/>
+  <bond atomRefs2="a6 a1" order="1"/>
+  <bond atomRefs2="a3 a7" order="1"/>
+  <bond atomRefs2="a7 a1" order="1"/>
+  <bond atomRefs2="a3 a8" order="1"/>
+  <bond atomRefs2="a8 a1" order="1"/>
+  <bond atomRefs2="a4 a9" order="1"/>
+  <bond atomRefs2="a9 a1" order="1"/>
+  <bond atomRefs2="a4 a10" order="1"/>
+  <bond atomRefs2="a10 a1" order="1"/>
+  <bond atomRefs2="a1 a11" order="2"/>
+  <bond atomRefs2="a1 a12" order="2"/>
+ </bondArray>
+</molecule>

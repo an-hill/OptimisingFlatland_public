@@ -1,0 +1,21 @@
+<molecule>
+ <crystal>
+  <scalar title="a" units="units:angstrom">20.000000</scalar>
+  <scalar title="b" units="units:angstrom">20.000000</scalar>
+  <scalar title="c" units="units:angstrom">20.000000</scalar>
+  <scalar title="alpha" units="units:degree">90.000000</scalar>
+  <scalar title="beta" units="units:degree">90.000000</scalar>
+  <scalar title="gamma" units="units:degree">90.000000</scalar>
+ </crystal>
+ <atomArray>
+  <atom id="a1" elementType="Co" xFract="-0.000541" yFract="0.001073" zFract="0.116316"/>
+  <atom id="a2" elementType="Co" xFract="0.001000" yFract="-0.000566" zFract="-0.001794"/>
+  <atom id="a3" elementType="N" xFract="-0.014053" yFract="-0.003289" zFract="-0.096010"/>
+  <atom id="a4" elementType="N" xFract="0.017821" yFract="0.004076" zFract="0.209940"/>
+ </atomArray>
+ <bondArray>
+  <bond atomRefs2="a2 a3" order="1"/>
+  <bond atomRefs2="a1 a4" order="1"/>
+  <bond atomRefs2="a2 a1" order="1"/>
+ </bondArray>
+</molecule>

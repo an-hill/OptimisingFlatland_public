@@ -1,0 +1,48 @@
+<molecule>
+ <crystal>
+  <scalar title="a" units="units:angstrom">20.000000</scalar>
+  <scalar title="b" units="units:angstrom">20.000000</scalar>
+  <scalar title="c" units="units:angstrom">20.000000</scalar>
+  <scalar title="alpha" units="units:degree">90.000000</scalar>
+  <scalar title="beta" units="units:degree">90.000000</scalar>
+  <scalar title="gamma" units="units:degree">90.000000</scalar>
+ </crystal>
+ <atomArray>
+  <atom id="a1" elementType="Cd" xFract="-0.008649" yFract="0.001531" zFract="0.117783"/>
+  <atom id="a2" elementType="Cd" xFract="-0.007367" yFract="-0.003369" zFract="-0.000911"/>
+  <atom id="a3" elementType="O" formalCharge="1" xFract="-0.108325" yFract="-0.006133" zFract="0.116894"/>
+  <atom id="a4" elementType="O" xFract="-0.107109" yFract="-0.010292" zFract="0.005824"/>
+  <atom id="a5" elementType="O" formalCharge="1" xFract="0.090446" yFract="0.009146" zFract="0.123679"/>
+  <atom id="a6" elementType="O" xFract="0.093470" yFract="0.004395" zFract="0.013512"/>
+  <atom id="a7" elementType="C" formalCharge="-1" xFract="-0.139444" yFract="-0.010593" zFract="0.064784"/>
+  <atom id="a8" elementType="C" formalCharge="-1" xFract="0.123995" yFract="0.009262" zFract="0.073163"/>
+  <atom id="a9" elementType="O" xFract="0.010159" yFract="0.099376" zFract="0.093897"/>
+  <atom id="a10" elementType="O" formalCharge="1" xFract="0.010385" yFract="0.091818" zFract="-0.018069"/>
+  <atom id="a11" elementType="O" xFract="0.024995" yFract="-0.094385" zFract="0.101663"/>
+  <atom id="a12" elementType="O" formalCharge="1" xFract="0.023687" yFract="-0.096150" zFract="-0.010714"/>
+  <atom id="a13" elementType="C" formalCharge="-1" xFract="0.033834" yFract="-0.125575" zFract="0.041855"/>
+  <atom id="a14" elementType="C" formalCharge="-1" xFract="0.015364" yFract="0.126583" zFract="0.031871"/>
+  <atom id="a15" elementType="P" xFract="-0.039694" yFract="-0.009638" zFract="-0.119018"/>
+  <atom id="a16" elementType="P" xFract="-0.017678" yFract="0.008678" zFract="0.240171"/>
+ </atomArray>
+ <bondArray>
+  <bond atomRefs2="a2 a6" order="1"/>
+  <bond atomRefs2="a1 a5" order="1"/>
+  <bond atomRefs2="a1 a3" order="1"/>
+  <bond atomRefs2="a2 a4" order="1"/>
+  <bond atomRefs2="a7 a3" order="2"/>
+  <bond atomRefs2="a7 a4" order="1"/>
+  <bond atomRefs2="a8 a5" order="2"/>
+  <bond atomRefs2="a8 a6" order="1"/>
+  <bond atomRefs2="a11 a1" order="1"/>
+  <bond atomRefs2="a12 a2" order="1"/>
+  <bond atomRefs2="a10 a2" order="1"/>
+  <bond atomRefs2="a9 a1" order="1"/>
+  <bond atomRefs2="a14 a9" order="1"/>
+  <bond atomRefs2="a13 a11" order="1"/>
+  <bond atomRefs2="a13 a12" order="2"/>
+  <bond atomRefs2="a10 a14" order="2"/>
+  <bond atomRefs2="a2 a15" order="1"/>
+  <bond atomRefs2="a1 a16" order="1"/>
+ </bondArray>
+</molecule>

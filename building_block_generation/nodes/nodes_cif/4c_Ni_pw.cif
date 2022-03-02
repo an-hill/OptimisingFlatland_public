@@ -1,0 +1,57 @@
+data_4c_Ni_pw
+_audit_creation_date              2020-10-22
+_audit_creation_method            'adam'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20
+_cell_length_b                    20
+_cell_length_c                    20
+_cell_angle_alpha                 90
+_cell_angle_beta                  90
+_cell_angle_gamma                 90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1 Ni -0.118621 0.073091 -0.001189
+Ni2 Ni -0.104867 -0.037307 0.001464
+O3 O -0.20589 0.063167 -0.003324
+O4 O -0.191833 -0.047093 -0.000666
+O5 O -0.031404 0.084179 0.000921
+O6 O -0.018135 -0.026188 0.00356
+X7 C -0.231121 0.007551 -0.00285
+X8 C 0.006625 0.036393 0.002929
+O9 O -0.116197 0.070642 -0.088622
+O10 O -0.102442 -0.03967 -0.086377
+O11 O -0.120887 0.07426 0.086275
+O12 O -0.107155 -0.036035 0.089331
+X13 C -0.114487 0.016319 0.119947
+X14 C -0.108065 0.011365 -0.119479
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Ni1 O3 1.7571467626598523 . S
+Ni1 O5 1.758878086457956 . S
+Ni2 O4 1.7508098517774568 . S
+Ni2 O6 1.7493399937310643 . S
+X7 O3 1.2214690642460004 . D
+X7 O4 1.3467425829407786 . S
+X8 O5 1.2220819594094332 . D
+X8 O6 1.3460786903387187 . S
+O9 Ni1 1.7500223813454503 . S
+O10 Ni2 1.7581291323278845 . S
+O10 X14 1.2218028690251141 . D
+O11 Ni1 1.7500213819885173 . S
+O12 Ni2 1.7581302857311232 . S
+X13 O11 1.3463986727136208 . S
+X13 O12 1.221802342714238 . D
+X14 O9 1.346398654600115 . S

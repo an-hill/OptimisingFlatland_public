@@ -1,0 +1,68 @@
+data_4c_Zn_Co_ox
+_audit_creation_date              2020-10-22
+_audit_creation_method            'adam'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20
+_cell_length_b                    20
+_cell_length_c                    20
+_cell_angle_alpha                 90
+_cell_angle_beta                  90
+_cell_angle_gamma                 90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1 Zn -0.031698 0.123753 -0.041587
+Zn2 Zn -0.021534 -0.152242 0.045532
+Co3 Co -0.030526 -0.015077 0.003167
+O4 O -0.108048 0.134071 -0.000115
+O5 O -0.083207 0.039913 0.055521
+O6 O 0.036071 0.134358 0.014531
+O7 O 0.046462 0.023167 0.036281
+X8 C -0.12259 0.09336 0.042553
+X9 C 0.065435 0.088187 0.041735
+O10 O -0.107057 -0.053608 -0.029752
+O11 O 0.021882 -0.07004 -0.049183
+O12 O 0.059433 -0.155676 0.013282
+O13 O -0.08085 -0.163248 -0.019463
+X14 C -0.121102 -0.112789 -0.038437
+X15 C 0.069742 -0.114364 -0.030229
+O16 O -0.031095 0.040709 -0.070331
+O17 O -0.030584 -0.070526 0.076635
+N18 N -0.031778 -0.205403 0.102375
+N19 N -0.026235 0.173965 -0.101742
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Zn1 N19 1.5709505257528005 . T
+Zn2 N18 1.5699751025933502 . T
+O4 Zn1 1.7499471816706356 . S
+O5 Co3 1.8482477926238678 . S
+O6 Zn1 1.7724983968063275 . S
+O7 Co3 1.8424279418110223 . S
+X8 O4 1.2148004922434792 . D
+X8 O5 1.3528932074506101 . S
+X9 O6 1.2221465900525192 . D
+X9 O7 1.3590259265242146 . S
+O10 Co3 1.835791122071626 . S
+O10 X14 1.2288375816148365 . D
+O11 Co3 1.8447862558754604 . S
+O12 Zn2 1.7444199727789176 . S
+O13 Zn2 1.7735737750632194 . S
+X14 O13 1.3455594627863905 . S
+X15 O11 1.3585940090637822 . S
+X15 O12 1.2175623193557692 . D
+O16 Zn1 1.7575924729532724 . S
+O16 Co3 1.8454647237996722 . S
+O17 Zn2 1.758038906901096 . S
+O17 Co3 1.840885812176844 . S

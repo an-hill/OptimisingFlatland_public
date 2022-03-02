@@ -1,0 +1,57 @@
+data_4c_Fe_pw
+_audit_creation_date              2020-10-22
+_audit_creation_method            'adam'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20
+_cell_length_b                    20
+_cell_length_c                    20
+_cell_angle_alpha                 90
+_cell_angle_beta                  90
+_cell_angle_gamma                 90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe -0.118659 0.073145 -0.001191
+Fe2 Fe -0.104833 -0.037371 0.001466
+O3 O -0.2126 0.062452 -0.003486
+O4 O -0.198469 -0.047796 -0.000832
+O5 O -0.024747 0.084974 0.00108
+O6 O -0.011489 -0.025392 0.003725
+X7 C -0.237707 0.006829 -0.003011
+X8 C 0.013188 0.037172 0.003089
+O9 O -0.116046 0.070457 -0.095301
+O10 O -0.102228 -0.039848 -0.093099
+O11 O -0.121089 0.074352 0.092954
+O12 O -0.107307 -0.035936 0.096057
+X13 C -0.114635 0.016431 0.126561
+X14 C -0.107858 0.011205 -0.126091
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Fe1 O3 1.8915204388813773 . S
+Fe1 O5 1.8936144188097004 . S
+Fe2 O4 1.8848518571240553 . S
+Fe2 O6 1.8827223031233256 . S
+X7 O3 1.2205758817382066 . D
+X7 O4 1.3458487235101868 . S
+X8 O5 1.221171148451764 . D
+X8 O6 1.3451582536541935 . S
+O9 Fe1 1.8836855086104474 . S
+O10 Fe2 1.8926778056351798 . S
+O10 X14 1.220905223883492 . D
+O11 Fe1 1.8836848328279336 . S
+O12 Fe2 1.8926759875359016 . S
+X13 O11 1.3454992138838282 . S
+X13 O12 1.2209062937203656 . D
+X14 O9 1.3454979701396803 . S

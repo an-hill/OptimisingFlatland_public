@@ -1,0 +1,57 @@
+data_4c_Re_pw
+_audit_creation_date              2020-10-22
+_audit_creation_method            'adam'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20
+_cell_length_b                    20
+_cell_length_c                    20
+_cell_angle_alpha                 90
+_cell_angle_beta                  90
+_cell_angle_gamma                 90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Re1 Re -0.118189 0.073809 -0.001192
+Re2 Re -0.1053 -0.038057 0.001468
+O3 O -0.214402 0.064184 -0.003573
+O4 O -0.201497 -0.046456 -0.000938
+O5 O -0.021922 0.084583 0.001167
+O6 O -0.009658 -0.026144 0.003786
+X7 C -0.240018 0.008789 -0.003114
+X8 C 0.015456 0.036286 0.003168
+O9 O -0.115411 0.07011 -0.097577
+O10 O -0.102646 -0.040577 -0.09527
+O11 O -0.120583 0.0741 0.095273
+O12 O -0.107836 -0.036573 0.098231
+X13 C -0.114681 0.015967 0.128692
+X14 C -0.107791 0.010653 -0.1282
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Re1 O3 1.9344553706793033 . S
+Re1 O5 1.9379343253232295 . S
+Re2 O4 1.931852125778265 . S
+Re2 O6 1.9281807283200918 . S
+X7 O3 1.220656396492477 . D
+X7 O4 1.347679305065563 . S
+X8 O5 1.222089650060911 . D
+X8 O6 1.3459034039205786 . S
+O9 Re1 1.9299090333147828 . S
+O10 Re2 1.936146433648292 . S
+O10 X14 1.2223388969025735 . D
+O11 Re1 1.9299075883852572 . S
+O12 Re2 1.9361472443639198 . S
+X13 O11 1.3462602120489187 . S
+X13 O12 1.2223394684108828 . D
+X14 O9 1.346259559871721 . S
